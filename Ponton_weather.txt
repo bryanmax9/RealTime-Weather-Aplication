@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -68.738,
+        "lat": -11.136
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 295.49,
+        "feels_like": 296.05,
+        "temp_min": 295.49,
+        "temp_max": 295.49,
+        "pressure": 1010,
+        "humidity": 87,
+        "sea_level": 1010,
+        "grnd_level": 983
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.94,
+        "deg": 256,
+        "gust": 1.36
+    },
+    "clouds": {
+        "all": 78
+    },
+    "dt": 1695198304,
+    "sys": {
+        "country": "BO",
+        "sunrise": 1695205563,
+        "sunset": 1695249061
+    },
+    "timezone": -14400,
+    "id": 3919998,
+    "name": "Ponton",
+    "cod": 200
+}

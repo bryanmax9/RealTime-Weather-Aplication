@@ -1,0 +1,49 @@
+{
+    "coord": {
+        "lon": -77.0282,
+        "lat": -12.0432
+    },
+    "weather": [
+        {
+            "id": 300,
+            "main": "Drizzle",
+            "description": "light intensity drizzle",
+            "icon": "09n"
+        },
+        {
+            "id": 701,
+            "main": "Mist",
+            "description": "mist",
+            "icon": "50n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 291.98,
+        "feels_like": 292.11,
+        "temp_min": 290.29,
+        "temp_max": 291.98,
+        "pressure": 985,
+        "humidity": 84
+    },
+    "visibility": 5000,
+    "wind": {
+        "speed": 3.6,
+        "deg": 180
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1695198026,
+    "sys": {
+        "type": 2,
+        "id": 2037860,
+        "country": "PE",
+        "sunrise": 1695207555,
+        "sunset": 1695251047
+    },
+    "timezone": -18000,
+    "id": 3936456,
+    "name": "Lima",
+    "cod": 200
+}
