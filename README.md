@@ -27,5 +27,9 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/real-time-weather-viewer.git
+   git clone git@github.com:bryanmax9/RealTime-Weather-Aplication.git
    cd real-time-weather-viewer
+
+##Acknowledgments
+
+    Thanks to the OpenWeatherMap API for providing real-time weather data.
