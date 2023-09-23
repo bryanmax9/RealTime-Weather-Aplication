@@ -30,6 +30,6 @@ Before you begin, ensure you have met the following requirements:
    git clone git@github.com:bryanmax9/RealTime-Weather-Aplication.git
    cd real-time-weather-viewer
 
-##Acknowledgments
+## Acknowledgments
 
     Thanks to the OpenWeatherMap API for providing real-time weather data.
